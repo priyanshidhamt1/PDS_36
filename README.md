@@ -1,1 +1,1 @@
-# PDS_36_cognitive_ai
+# PDS_36
